@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def TreeConstructor(strArr):
   for i in range(10):
     count = 0
