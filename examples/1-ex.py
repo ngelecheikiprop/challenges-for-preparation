@@ -4,7 +4,7 @@ def str1instr2(str1, str2):
       return 0
   return 1
 
-if str1instr2('chem', 'kiprop'):
+if str1instr2('pppk', 'kiprop'):
   print('found you')
 else:
   print('ooo no')
